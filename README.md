@@ -1,7 +1,3 @@
-
-### README.md para el Frontend
-
-```markdown
 # Frontend de Gestión de Tareas
 
 Este proyecto es el frontend de una aplicación de gestión de tareas desarrollado con Vue.js.
@@ -35,9 +31,9 @@ Este proyecto es el frontend de una aplicación de gestión de tareas desarrolla
 
 ## Uso
 
-- Agrega nuevas tareas completando el formulario y haciendo clic en "Add".
-- Edita una tarea existente haciendo clic en "Edit" junto a la tarea en la lista, luego modifica los campos en el formulario y haz clic en "Update".
-- Elimina una tarea haciendo clic en "Delete" junto a la tarea en la lista.
+- **Agregar nuevas tareas:** Completa el formulario y haz clic en "Add".
+- **Editar una tarea:** Haz clic en "Edit" junto a la tarea en la lista, modifica los campos en el formulario y haz clic en "Update".
+- **Eliminar una tarea:** Haz clic en "Delete" junto a la tarea en la lista.
 
 ## Estructura del Proyecto
 
